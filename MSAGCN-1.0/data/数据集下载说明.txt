@@ -1,0 +1,8 @@
+数据集名称	下载链接
+mouse visual cortex	https://zenodo.org/records/13932144
+human dorsolateral prefrontal cortex	https://figshare.com/articles/dataset/Spatial_genomics_datasets/21623148/5
+（151671 sample）	https://zenodo. org/records/10362607
+human lymph node A1	https://zenodo. org/records/10362607
+P22 mouse brain	https://zenodo. org/records/10362607
+human lymph node D1	https://figshare.com/articles/dataset/Spatial_genomics_datasets/21623148/5
+mouse embryo brain 	
